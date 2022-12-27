@@ -112,7 +112,7 @@ const Video = () => {
           <iframe
             width="100%"
             height="720"
-            src="https://www.youtube.com/embed/k3Vfj-e1Ma4"
+            src="https://www.youtube.com/watch?v=1Esapb0gT3w"
             title="YouTube video player"
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -142,8 +142,8 @@ const Video = () => {
           <ChannelInfo>
             <Image src="https://yt3.ggpht.com/yti/APfAmoE-Q0ZLJ4vk3vqmV4Kwp0sbrjxLyB8Q4ZgNsiRH=s88-c-k-c0x00ffffff-no-rj-mo" />
             <ChannelDetail>
-              <ChannelName>Lama Dev</ChannelName>
-              <ChannelCounter>200K subscribers</ChannelCounter>
+              <ChannelName>Vivek</ChannelName>
+              <ChannelCounter>1K subscribers</ChannelCounter>
               <Description>
                 Lorem ipsum dolor, sit amet consectetur adipisicing elit.
                 Doloribus laborum delectus unde quaerat dolore culpa sit aliquam
