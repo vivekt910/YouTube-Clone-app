@@ -66,8 +66,8 @@ const Card = ({ type }) => {
           />
           <Texts>
             <Title>Test Video</Title>
-            <ChannelName>Lama Dev</ChannelName>
-            <Info>660,908 views • 1 day ago</Info>
+            <ChannelName>Vivek</ChannelName>
+            <Info>1456 views • 3 day ago</Info>
           </Texts>
         </Details>
       </Container>
